@@ -1,4 +1,4 @@
-package StreamAPI;
+package stream.api;
 
 import java.util.Arrays;
 import java.util.function.Predicate;
